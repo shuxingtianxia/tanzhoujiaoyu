@@ -1,0 +1,17 @@
+
+body,p,a,ul,li,h1,h2,h3,h4,h5,h6,dl,dt,dd{
+	margin:0;
+	padding: 0;
+	font-family: "微软雅黑";
+	font-size: 14px;
+}
+ul,li{
+	list-style: none;
+}
+a{
+	text-decoration:none;
+	color: #fff;
+}
+img{
+	display: block;
+}
